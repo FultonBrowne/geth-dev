@@ -1,4 +1,4 @@
-FROM node:6.11-alpine
+FROM node:alpine
 
 WORKDIR "/opt"
 
